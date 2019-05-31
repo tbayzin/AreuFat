@@ -28,7 +28,6 @@ public class ActivityTwo extends AppCompatActivity {
         comment = (Button) findViewById(R.id.BtnCalculateF);
         result = (TextView) findViewById(R.id.resultF);
 
-
         comment.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -60,12 +59,6 @@ public class ActivityTwo extends AppCompatActivity {
                 }
 
             }
-
-
-
-
         });
-
-
     }
 }
