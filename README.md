@@ -6,6 +6,6 @@ NOTE:Our app is kind as wont make fun of female users :)
 
 This app is almost ready. Needs a better UI and more humorous comments for male section.
 
-<img src="PrevImg/1.png"  width= "450">
+<img src="PrevImg/1.png"  width= "350">
 
-<img src="PrevImg/2.png"  width= "450">
+<img src="PrevImg/2.png"  width= "350">
