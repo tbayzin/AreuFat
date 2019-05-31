@@ -30,7 +30,6 @@ public class ActivityThree extends AppCompatActivity {
         result = (TextView) findViewById(R.id.resultM);
 
 
-
         comment.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -49,7 +48,6 @@ public class ActivityThree extends AppCompatActivity {
                 left = weight-idealkilo;
 
 
-
                 if (left  >= -20 && left <= -8 ) {
                     result.setText("u are a skeleton dude.Gain some weight !"); }
                 else if (left >= -8 && left <= -6)  {
@@ -64,18 +62,11 @@ public class ActivityThree extends AppCompatActivity {
                     result.setText("U are really owerweight man.Do something about it immediately if u dont want to be a Sumo wrestler.");
                 }
 
-
             }
-
-
 
 
         });
 
-
         }
 
-
     }
-
-
